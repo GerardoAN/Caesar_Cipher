@@ -32,8 +32,7 @@ Enter string to decrypt: hello
 khoor
 ```
 ## 📺 Demo
-<p align="center">
-<img src="https://github.com/ndleah/python-mini-project/blob/main/IMG/caesar-cipher.png" width=70% height=70%>
+
 
 
 技术文档：凯撒密码安全性分析及改进建议
